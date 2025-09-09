@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Shehbaz
+# Hi! 👋 I'm Shehbaz Quttoshi
 🎓 CS Student at **FAST NUCES, Islamabad**  
 💻 Passionate about **AI/ML** and **Data Science**
 ## 🔧 Tech Stack
@@ -12,7 +12,7 @@
 - 📊 **[Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)** - Oil price prediction with LSTM
 - 🎮 **[Space Shooter Game](https://github.com/Quttoshi/Space-Shooter-Game)** - Classic arcade game in C++
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehbaz-quttoshi-052940281)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehbaz.qutoshi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehbaz-quttoshi-052940281)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shehbaz.qutoshi@gmail.com)
 ---
 ⭐️ "Turning ideas into code!"
