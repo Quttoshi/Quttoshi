@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi! 👋 I'm Shehbaz Quttoshi
 
-<!--
-**Quttoshi/Quttoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student at **FAST NUCES, Islamabad**  
+💻 Passionate about **AI/ML** and **Game Development**
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🤖 **[TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)** - ML-based autonomous racing
+- 🚦 **[SmartTraffix System](https://github.com/Quttoshi/SmartTraffix-System)** - Traffic management system
+- 📊 **[Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)** - Oil price prediction with LSTM
+- 🎮 **[Space Shooter Game](https://github.com/Quttoshi/Space-Shooter-Game)** - Classic arcade game in C++
+
+## 📈 GitHub Stats
+![Quttoshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quttoshi&show_icons=true&theme=radical&hide_border=true)
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shehbaz-quttoshi-052940281)
+
+---
+⭐️ "Turning ideas into code!"
