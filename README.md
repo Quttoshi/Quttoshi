@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Shehbaz Quttoshi
+# Hi! 👋 I'm Shehbaz
 
 🎓 CS Student at **FAST NUCES, Islamabad**  
 💻 Passionate about **AI/ML** and **Data Science**
@@ -33,14 +33,17 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shehbaz-quttoshi-052940281">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shehbaz-quttoshi-052940281" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:shehbaz.qutoshi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:shehbaz.qutoshi@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Quttoshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
