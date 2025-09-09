@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Shehbaz Quttoshi
 
 🎓 CS Student at **FAST NUCES, Islamabad**  
-💻 Passionate about **AI/ML** and **Game Development**
+💻 Passionate about **AI/ML** and **Data Science**
 
 ## 🔧 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
@@ -14,9 +14,6 @@
 - 🚦 **[SmartTraffix System](https://github.com/Quttoshi/SmartTraffix-System)** - Traffic management system
 - 📊 **[Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)** - Oil price prediction with LSTM
 - 🎮 **[Space Shooter Game](https://github.com/Quttoshi/Space-Shooter-Game)** - Classic arcade game in C++
-
-## 📈 GitHub Stats
-![Quttoshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quttoshi&show_icons=true&theme=radical&hide_border=true)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shehbaz-quttoshi-052940281)
