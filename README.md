@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Shehbaz
 
 🎓 CS Student at **FAST NUCES, Islamabad**  
-💻 Passionate about **AI/ML** and **Data Science**
+💻 Passionate about **AI/ML**
 
 ---
 
