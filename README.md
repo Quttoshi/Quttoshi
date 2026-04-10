@@ -17,9 +17,9 @@ Associate Software Engineer building intelligent systems, scalable APIs, and pra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" alt="LangChain" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph_logo.png" alt="LangGraph" width="50" height="50"/>
-  <img src="https://www.langfuse.com/logo.png" alt="LangFuse" width="50" height="50"/>
+  <img src="https://api.langchain.com/langchain.svg" alt="LangChain" width="50" height="50"/>
+  <img src="https://camo.githubusercontent.com/9c7cbe3a3cac1d9b56137b82e91eb84d20f53f42cf36a36a80de887e7b4a6f1c/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c616e6763686169696e2d616c2f6c616e6e67726170682f6d61696e2f646f63732f7374617469632f696d672f6c616e6767726170685f6c6f676f2e706e67" alt="LangGraph" width="50" height="50"/>
+  <img src="https://repository-images.githubusercontent.com/680692036/99fb9500-e45a-47c1-94fa-1cc8edbcd3f0" alt="LangFuse" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/search.png" alt="RAG" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
 </p>
