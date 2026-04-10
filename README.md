@@ -25,7 +25,7 @@ Associate Software Engineer building intelligent systems, scalable APIs, and pra
 ## 🚀 Featured Projects
 
 - 🤖 **[TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)** – ML-based autonomous racing  
--  **[Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)** – Oil price prediction with LSTM  
+- 📊 **[Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)** – Oil price prediction with LSTM  
 - 🔐 **[MedLock](https://github.com/Quttoshi/MedLock)** – Healthcare security solution  
 
 ---
