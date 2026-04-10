@@ -19,6 +19,7 @@ Associate Software Engineer building intelligent systems, scalable APIs, and pra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" title="FastAPI"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" title="AWS"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="50" title="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" height="50" title="LangGraph"/>
 </p>
 
 ---
