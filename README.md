@@ -12,12 +12,16 @@ Associate Software Engineer building intelligent systems, scalable APIs, and pra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" alt="LangChain" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph_logo.png" alt="LangGraph" width="50" height="50"/>
+  <img src="https://www.langfuse.com/logo.png" alt="LangFuse" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/000000/search.png" alt="RAG" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
 </p>
 
 ---
@@ -25,6 +29,7 @@ Associate Software Engineer building intelligent systems, scalable APIs, and pra
 ## 🚀 Featured Projects
 
 - 🤖 **[TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)** – ML-based autonomous racing  
+- 🚦 **[SmartTraffix System](https://github.com/Quttoshi/SmartTraffix-System)** – Traffic management system  
 - 📊 **[Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)** – Oil price prediction with LSTM  
 - 🔐 **[MedLock](https://github.com/Quttoshi/MedLock)** – Healthcare security solution  
 
