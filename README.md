@@ -17,11 +17,11 @@ Associate Software Engineer building intelligent systems, scalable APIs, and pra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://python.langchain.com/img/langchain_logo.png" alt="LangChain" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph_logo.png" alt="LangGraph" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/105715811?s=200&v=4" alt="LangFuse" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/000000/search.png" alt="RAG" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.svg" alt="LangChain" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph-logo.svg" alt="LangGraph" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/langfuse/langfuse/main/web/public/langfuse-logo.svg" alt="LangFuse" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/9068/9068756.png" alt="RAG" width="50" height="50"/>
 </p>
 
 ---
