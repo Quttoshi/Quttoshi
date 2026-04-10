@@ -18,9 +18,9 @@ Associate Software Engineer building intelligent systems, scalable APIs, and pra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" title="FastAPI"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" width="50" height="50" title="LangChain"/>
-  <img src="https://avatars.githubusercontent.com/u/105715811?s=200&v=4" alt="LangFuse" width="50" height="50" title="LangFuse" style="border-radius:8px"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="50" title="LangChain"/>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
