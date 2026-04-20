@@ -26,4 +26,4 @@
 
 ---
 
-⭐️ *"Turning ideas into code!"*
+⭐️ *"I wire up systems that think, adapt, and ship."*
