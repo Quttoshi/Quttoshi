@@ -1,16 +1,5 @@
 <div align="center">
-
-```
-███████╗██╗  ██╗███████╗██╗  ██╗██████╗  █████╗ ███████╗
-██╔════╝██║  ██║██╔════╝██║  ██║██╔══██╗██╔══██╗╚══███╔╝
-███████╗███████║█████╗  ███████║██████╔╝███████║  ███╔╝ 
-╚════██║██╔══██║██╔══╝  ██╔══██║██╔══██╗██╔══██║ ███╔╝  
-███████║██║  ██║███████╗██║  ██║██████╔╝██║  ██║███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%5B+ASSOCIATE+SOFTWARE+ENGINEER+%C2%B7+AGENTIC+AI+%C2%B7+ML+%C2%B7+GENAI+%5D" alt="Typing SVG" />
-
+  <img src="./header.svg" alt="Shehbaz header" />
 </div>
 
 ---
