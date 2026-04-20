@@ -22,7 +22,7 @@
 
 ## 📫 Connect with Me
 
-<p align="center"><a href="https://www.linkedin.com/in/shehbaz-quttoshi-052940281"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;<a href="mailto:shehbaz.qutoshi@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>&nbsp;&nbsp;<a href="https://github.com/Quttoshi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/shehbaz-quttoshi-052940281"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;<a href="mailto:shehbaz.qutoshi@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a></p>
 
 ---
 
