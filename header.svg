@@ -5,7 +5,7 @@
       @keyframes blink { 0%,49%{opacity:1} 50%,99%{opacity:0} }
       @keyframes flicker { 0%,100%{opacity:1} 92%{opacity:1} 93%{opacity:0.7} 94%{opacity:1} 97%{opacity:0.85} 98%{opacity:1} }
       @keyframes charIn { 0%{opacity:0;transform:translateY(-18px)} 100%{opacity:1;transform:translateY(0)} }
-      @keyframes barIn { 0%{width:0} 100%{width:860px} }
+      @keyframes barIn { 0%{width:0} 100%{width:760px} }
       @keyframes fadeIn { 0%{opacity:0} 100%{opacity:1} }
       .name-group { animation: flicker 5.5s ease-in-out infinite; }
       .c1  { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.04s both; }
@@ -15,7 +15,6 @@
       .c5  { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.28s both; }
       .c6  { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.34s both; }
       .c7  { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.40s both; }
-      .c8  { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.50s both; }
       .c9  { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.56s both; }
       .c10 { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.62s both; }
       .c11 { animation: charIn 0.35s cubic-bezier(0.22,1,0.36,1) 0.68s both; }
@@ -28,40 +27,33 @@
     </style>
   </defs>
 
-  <!-- Background -->
   <rect width="900" height="140" fill="#07050f" rx="10"/>
-
-  <!-- Subtle horizontal grid lines -->
   <line x1="0" y1="0"   x2="900" y2="0"   stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
   <line x1="0" y1="38"  x2="900" y2="38"  stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
   <line x1="0" y1="76"  x2="900" y2="76"  stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
   <line x1="0" y1="114" x2="900" y2="114" stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
 
-  <!-- Corner brackets -->
   <path d="M8,30 L8,8 L30,8" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
   <path d="M892,30 L892,8 L870,8" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
   <path d="M8,110 L8,132 L30,132" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
   <path d="M892,110 L892,132 L870,132" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
 
-  <!-- Scanline -->
   <rect class="scan" x="0" width="900" height="2" y="0"/>
 
-  <!-- Name: SHEHBAZ KARIM -->
+  <!-- Centered name -->
   <g class="name-group">
-    <text y="82" font-family="monospace" font-size="62" font-weight="700" fill="#a78bfa" letter-spacing="9">
-      <tspan class="c1" dx="22">S</tspan><tspan class="c2">H</tspan><tspan class="c3">E</tspan><tspan class="c4">H</tspan><tspan class="c5">B</tspan><tspan class="c6">A</tspan><tspan class="c7">Z</tspan><tspan dx="18"> </tspan><tspan class="c9">K</tspan><tspan class="c10">A</tspan><tspan class="c11">R</tspan><tspan class="c12">I</tspan><tspan class="c12">M</tspan>
+    <text x="450" y="82" text-anchor="middle" font-family="monospace" font-size="62" font-weight="700" fill="#a78bfa" letter-spacing="9">
+      <tspan class="c1">S</tspan><tspan class="c2">H</tspan><tspan class="c3">E</tspan><tspan class="c4">H</tspan><tspan class="c5">B</tspan><tspan class="c6">A</tspan><tspan class="c7">Z</tspan><tspan dx="2"> </tspan><tspan class="c9" dx="-14">K</tspan><tspan class="c10">A</tspan><tspan class="c11">R</tspan><tspan class="c12">I</tspan><tspan class="c12">M</tspan>
     </text>
   </g>
 
-  <!-- Underline bars -->
-  <rect class="bar1" x="22" y="92" height="2" rx="1"/>
-  <rect class="bar2" x="22" y="95" height="1" rx="0"/>
+  <!-- Centered underline bars -->
+  <rect class="bar1" x="70" y="92" height="2" rx="1"/>
+  <rect class="bar2" x="70" y="95" height="1" rx="0"/>
 
-  <!-- Subtitle row -->
+  <!-- Centered subtitle -->
   <g class="subtitle">
-    <text x="22"  y="120" font-family="monospace" font-size="11.5" fill="rgba(167,139,250,0.35)">[</text>
-    <text x="36"  y="120" font-family="monospace" font-size="11.5" fill="rgba(167,139,250,0.72)" letter-spacing="2">ASSOCIATE SOFTWARE ENGINEER · AGENTIC AI · ML · GENAI</text>
-    <rect class="cursor" x="692" y="108" width="8" height="13" rx="1"/>
-    <text x="703" y="120" font-family="monospace" font-size="11.5" fill="rgba(167,139,250,0.35)">]</text>
+    <text x="450" y="120" text-anchor="middle" font-family="monospace" font-size="11.5" fill="rgba(167,139,250,0.72)" letter-spacing="2">[ ASSOCIATE SOFTWARE ENGINEER · AGENTIC AI · ML · GENAI ]</text>
+    <rect class="cursor" x="448" y="108" width="8" height="13" rx="1"/>
   </g>
 </svg>
