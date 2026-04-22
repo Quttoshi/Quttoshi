@@ -13,10 +13,13 @@
 ---
 
 ## 🚀 Featured Projects
-- 🤖 **[TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)** – ML-based autonomous racing  
-- 🎙️ **[LiveTranscription-STT](https://github.com/Quttoshi/LiveTranscription-STT)** – Real Time Transcription STT  
-- 📊 **[Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)** – Oil price prediction with LSTM  
-- 🔐 **[MedLock](https://github.com/Quttoshi/MedLock)** – Healthcare security solution  
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver) | ML-based autonomous agent trained end-to-end in the TORCS simulator | `Python` `RL` `TORCS` |
+| 🎙️ [LiveTranscription-STT](https://github.com/Quttoshi/LiveTranscription-STT) | Real-time speech-to-text pipeline with low-latency streaming from live audio | `Python` `Whisper` `Audio` |
+| 📊 [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM) | Oil price prediction using ANN & LSTM, benchmarked against classical baselines | `Python` `LSTM` `Keras` |
+| 🔐 [MedLock](https://github.com/Quttoshi/MedLock) | Healthcare security solution with robust access controls for patient data | `Security` `Healthcare` | 
 
 ---
 
