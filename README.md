@@ -14,13 +14,113 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver) | ML-based autonomous agent trained end-to-end in the TORCS simulator | `Python` `RL` `TORCS` |
-| 🎙️ [LiveTranscription-STT](https://github.com/Quttoshi/LiveTranscription-STT) | Real-time speech-to-text pipeline with low-latency streaming from live audio | `Python` `Whisper` `Audio` |
-| 📊 [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM) | Oil price prediction using ANN & LSTM, benchmarked against classical baselines | `Python` `LSTM` `Keras` |
-| 🔐 [MedLock](https://github.com/Quttoshi/MedLock) | Healthcare security solution using blockchain and AES encryption | `FastAPI` `Supabase` `Blockchain` `AES` |
-| 🕵️ [Job Scraper](https://github.com/Quttoshi/Job-Scraper) | Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets | `Python` `FastAPI` `n8n` `Docker` |
+<table width="100%">
+  <tr>
+    <td width="100%" style="padding: 0;">
+
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 0 8px;">
+
+  <tr>
+    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="44" valign="middle">
+            <div style="width:40px; height:40px; background:#E1F5EE; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🤖</div>
+          </td>
+          <td valign="middle" style="padding-left: 14px;">
+            <strong><a href="https://github.com/Quttoshi/TORCS-AI-Racing-Driver">TORCS AI Racing Driver</a></strong><br/>
+            <span style="font-size:13px; color:#57606a;">ML-based autonomous agent trained end-to-end in the TORCS simulator</span>
+          </td>
+          <td align="right" valign="middle" style="white-space:nowrap;">
+            <code>Python</code> <code>RL</code> <code>TORCS</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="44" valign="middle">
+            <div style="width:40px; height:40px; background:#EEEDFE; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🎙️</div>
+          </td>
+          <td valign="middle" style="padding-left: 14px;">
+            <strong><a href="https://github.com/Quttoshi/LiveTranscription-STT">LiveTranscription STT</a></strong><br/>
+            <span style="font-size:13px; color:#57606a;">Real-time speech-to-text pipeline with low-latency streaming from live audio</span>
+          </td>
+          <td align="right" valign="middle" style="white-space:nowrap;">
+            <code>Python</code> <code>Whisper</code> <code>Audio</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="44" valign="middle">
+            <div style="width:40px; height:40px; background:#FAEEDA; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">📊</div>
+          </td>
+          <td valign="middle" style="padding-left: 14px;">
+            <strong><a href="https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM">Time Series Forecasting</a></strong><br/>
+            <span style="font-size:13px; color:#57606a;">Oil price prediction using ANN & LSTM, benchmarked against classical baselines</span>
+          </td>
+          <td align="right" valign="middle" style="white-space:nowrap;">
+            <code>Python</code> <code>LSTM</code> <code>Keras</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="44" valign="middle">
+            <div style="width:40px; height:40px; background:#FCEBEB; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🔐</div>
+          </td>
+          <td valign="middle" style="padding-left: 14px;">
+            <strong><a href="https://github.com/Quttoshi/MedLock">MedLock</a></strong><br/>
+            <span style="font-size:13px; color:#57606a;">Healthcare security solution using blockchain and AES encryption</span>
+          </td>
+          <td align="right" valign="middle" style="white-space:nowrap;">
+            <code>FastAPI</code> <code>Supabase</code> <code>Blockchain</code> <code>AES</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="44" valign="middle">
+            <div style="width:40px; height:40px; background:#E6F1FB; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🕵️</div>
+          </td>
+          <td valign="middle" style="padding-left: 14px;">
+            <strong><a href="https://github.com/Quttoshi/Job-Scraper">Job Scraper</a></strong><br/>
+            <span style="font-size:13px; color:#57606a;">Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets</span>
+          </td>
+          <td align="right" valign="middle" style="white-space:nowrap;">
+            <code>Python</code> <code>FastAPI</code> <code>n8n</code> <code>Docker</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+</table>
+
+  </td>
+  </tr>
+</table>
+
 ---
 
 ## 📫 Connect with Me
