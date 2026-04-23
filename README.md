@@ -14,112 +14,54 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="100%" style="padding: 0;">
+---
 
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 0 8px;">
+**01 &nbsp; 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
+> ML-based autonomous agent trained end-to-end in the TORCS simulator
 
-  <tr>
-    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="44" valign="middle">
-            <div style="width:40px; height:40px; background:#E1F5EE; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🤖</div>
-          </td>
-          <td valign="middle" style="padding-left: 14px;">
-            <strong><a href="https://github.com/Quttoshi/TORCS-AI-Racing-Driver">TORCS AI Racing Driver</a></strong><br/>
-            <span style="font-size:13px; color:#57606a;">ML-based autonomous agent trained end-to-end in the TORCS simulator</span>
-          </td>
-          <td align="right" valign="middle" style="white-space:nowrap;">
-            <code>Python</code> <code>RL</code> <code>TORCS</code>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement%20Learning-555?style=flat-square)
+![TORCS](https://img.shields.io/badge/TORCS-555?style=flat-square)
 
-  <tr>
-    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="44" valign="middle">
-            <div style="width:40px; height:40px; background:#EEEDFE; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🎙️</div>
-          </td>
-          <td valign="middle" style="padding-left: 14px;">
-            <strong><a href="https://github.com/Quttoshi/LiveTranscription-STT">LiveTranscription STT</a></strong><br/>
-            <span style="font-size:13px; color:#57606a;">Real-time speech-to-text pipeline with low-latency streaming from live audio</span>
-          </td>
-          <td align="right" valign="middle" style="white-space:nowrap;">
-            <code>Python</code> <code>Whisper</code> <code>Audio</code>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="44" valign="middle">
-            <div style="width:40px; height:40px; background:#FAEEDA; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">📊</div>
-          </td>
-          <td valign="middle" style="padding-left: 14px;">
-            <strong><a href="https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM">Time Series Forecasting</a></strong><br/>
-            <span style="font-size:13px; color:#57606a;">Oil price prediction using ANN & LSTM, benchmarked against classical baselines</span>
-          </td>
-          <td align="right" valign="middle" style="white-space:nowrap;">
-            <code>Python</code> <code>LSTM</code> <code>Keras</code>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+**02 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT)**
+> Real-time speech-to-text pipeline with low-latency streaming from live audio
 
-  <tr>
-    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="44" valign="middle">
-            <div style="width:40px; height:40px; background:#FCEBEB; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🔐</div>
-          </td>
-          <td valign="middle" style="padding-left: 14px;">
-            <strong><a href="https://github.com/Quttoshi/MedLock">MedLock</a></strong><br/>
-            <span style="font-size:13px; color:#57606a;">Healthcare security solution using blockchain and AES encryption</span>
-          </td>
-          <td align="right" valign="middle" style="white-space:nowrap;">
-            <code>FastAPI</code> <code>Supabase</code> <code>Blockchain</code> <code>AES</code>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-555?style=flat-square&logo=openai&logoColor=white)
+![Audio](https://img.shields.io/badge/Audio-555?style=flat-square)
 
-  <tr>
-    <td style="background:#f6f8fa; border: 1px solid #e1e4e8; border-radius: 10px; padding: 14px 18px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="44" valign="middle">
-            <div style="width:40px; height:40px; background:#E6F1FB; border-radius:8px; text-align:center; line-height:40px; font-size:20px;">🕵️</div>
-          </td>
-          <td valign="middle" style="padding-left: 14px;">
-            <strong><a href="https://github.com/Quttoshi/Job-Scraper">Job Scraper</a></strong><br/>
-            <span style="font-size:13px; color:#57606a;">Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets</span>
-          </td>
-          <td align="right" valign="middle" style="white-space:nowrap;">
-            <code>Python</code> <code>FastAPI</code> <code>n8n</code> <code>Docker</code>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+---
 
-</table>
+**03 &nbsp; 📊 [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)**
+> Oil price prediction using ANN & LSTM, benchmarked against classical baselines
 
-  </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-555?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-555?style=flat-square&logo=keras&logoColor=white)
+
+---
+
+**04 &nbsp; 🔐 [MedLock](https://github.com/Quttoshi/MedLock)**
+> Healthcare security solution using blockchain and AES encryption
+
+![FastAPI](https://img.shields.io/badge/FastAPI-555?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-555?style=flat-square&logo=supabase&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-555?style=flat-square)
+![AES](https://img.shields.io/badge/AES-555?style=flat-square)
+
+---
+
+**05 &nbsp; 🕵️ [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
+> Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets
+
+![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-555?style=flat-square&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-555?style=flat-square&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white)
+
+---
 
 ---
 
