@@ -61,6 +61,15 @@
 ![n8n](https://img.shields.io/badge/n8n-E11D48?style=flat-square&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+**06 &nbsp; 🧠 [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
+> Production-ready Retrieval Augmented Generation system with document ingestion, semantic search, and LLM-powered responses
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3144?style=flat-square&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 ---
 
 ---
