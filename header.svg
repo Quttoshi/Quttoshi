@@ -26,34 +26,28 @@
       .scan { fill: rgba(167,139,250,0.15); animation: scanline 3.2s linear infinite; }
     </style>
   </defs>
-
   <rect width="900" height="140" fill="#07050f" rx="10"/>
   <line x1="0" y1="0"   x2="900" y2="0"   stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
   <line x1="0" y1="38"  x2="900" y2="38"  stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
   <line x1="0" y1="76"  x2="900" y2="76"  stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
   <line x1="0" y1="114" x2="900" y2="114" stroke="rgba(167,139,250,0.05)" stroke-width="38"/>
-
   <path d="M8,30 L8,8 L30,8" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
   <path d="M892,30 L892,8 L870,8" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
   <path d="M8,110 L8,132 L30,132" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
   <path d="M892,110 L892,132 L870,132" fill="none" stroke="rgba(167,139,250,0.25)" stroke-width="1"/>
-
   <rect class="scan" x="0" width="900" height="2" y="0"/>
-
   <!-- Centered name -->
   <g class="name-group">
     <text x="450" y="82" text-anchor="middle" font-family="monospace" font-size="62" font-weight="700" fill="#a78bfa" letter-spacing="9">
       <tspan class="c1">S</tspan><tspan class="c2">H</tspan><tspan class="c3">E</tspan><tspan class="c4">H</tspan><tspan class="c5">B</tspan><tspan class="c6">A</tspan><tspan class="c7">Z</tspan><tspan dx="2"> </tspan><tspan class="c9" dx="-14">K</tspan><tspan class="c10">A</tspan><tspan class="c11">R</tspan><tspan class="c12">I</tspan><tspan class="c12">M</tspan>
     </text>
   </g>
-
   <!-- Centered underline bars -->
   <rect class="bar1" x="70" y="92" height="2" rx="1"/>
   <rect class="bar2" x="70" y="95" height="1" rx="0"/>
-
   <!-- Centered subtitle -->
   <g class="subtitle">
-    <text x="450" y="120" text-anchor="middle" font-family="monospace" font-size="11.5" fill="rgba(167,139,250,0.72)" letter-spacing="2">[ ASSOCIATE SOFTWARE ENGINEER · AGENTIC AI · ML · GENAI ]</text>
+    <text x="450" y="120" text-anchor="middle" font-family="monospace" font-size="11.5" fill="rgba(167,139,250,0.72)" letter-spacing="2">[ AI ENGINEER · AGENTIC AI · ML · GENAI ]</text>
     <rect class="cursor" x="448" y="108" width="8" height="13" rx="1"/>
   </g>
 </svg>
