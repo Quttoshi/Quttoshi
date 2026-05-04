@@ -14,9 +14,19 @@
 
 ## 🚀 Featured Projects
 
+**01 &nbsp; 🔍 [YcMind](https://github.com/Quttoshi/ycmind)**
+> GraphRAG system over 4,000+ Y Combinator companies — answers multi-hop questions about founders, batches, and sectors using a knowledge graph + vector search pipeline
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-10B981?style=flat-square&logo=openai&logoColor=white)
+
 ---
 
-**01 &nbsp; 🧠 [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
+**02 &nbsp; 🧠 [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
 > Production-ready Retrieval Augmented Generation system with document ingestion, semantic search, and LLM-powered responses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -27,7 +37,7 @@
 
 ---
 
-**02 &nbsp; 🕵️ [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
+**03 &nbsp; 🕵️ [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
 > Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,7 +47,7 @@
 
 ---
 
-**03 &nbsp; 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
+**04 &nbsp; 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
 > ML-based autonomous agent trained end-to-end in the TORCS simulator
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,7 +56,7 @@
 
 ---
 
-**04 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT)**
+**05 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT)**
 > Real-time speech-to-text pipeline with low-latency streaming from live audio
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,7 +65,7 @@
 
 ---
 
-**05 &nbsp; 📊 [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)**
+**06 &nbsp; 📊 [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)**
 > Oil price prediction using ANN & LSTM, benchmarked against classical baselines
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -64,7 +74,7 @@
 
 ---
 
-**06 &nbsp; 🔐 [MedLock](https://github.com/Quttoshi/MedLock)**
+**07 &nbsp; 🔐 [MedLock](https://github.com/Quttoshi/MedLock)**
 > Healthcare security solution using blockchain and AES encryption
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
