@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-**01 &nbsp; 🔍 [YcMind](https://github.com/Quttoshi/ycmind)**
+**01 &nbsp; 🔍 [YcMind](https://github.com/Quttoshi/ycmind) &nbsp;·&nbsp; [Live App ↗](https://ycmind.vercel.app/)**
 > GraphRAG system over 4,000+ Y Combinator companies — answers multi-hop questions about founders, batches, and sectors using a knowledge graph + vector search pipeline
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
