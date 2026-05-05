@@ -56,7 +56,7 @@
 
 ---
 
-**05 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT)**
+**05 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp; [Live App ↗](https://feisty-generosity-production-388b.up.railway.app/)**
 > Real-time speech-to-text pipeline with low-latency streaming from live audio
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
