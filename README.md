@@ -26,7 +26,16 @@
 
 ---
 
-**02 &nbsp; 🧠 [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
+**02 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp; [Live App ↗](https://feisty-generosity-production-388b.up.railway.app/)**
+> Real-time speech-to-text pipeline with low-latency streaming from live audio
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-10B981?style=flat-square&logo=openai&logoColor=white)
+![Audio](https://img.shields.io/badge/Audio-6366F1?style=flat-square)
+
+---
+
+**03 &nbsp; 🧠 [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
 > Production-ready Retrieval Augmented Generation system with document ingestion, semantic search, and LLM-powered responses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,7 +46,7 @@
 
 ---
 
-**03 &nbsp; 🕵️ [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
+**04 &nbsp; 🕵️ [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
 > Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,21 +56,12 @@
 
 ---
 
-**04 &nbsp; 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
+**05 &nbsp; 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
 > ML-based autonomous agent trained end-to-end in the TORCS simulator
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-A855F7?style=flat-square)
 ![TORCS](https://img.shields.io/badge/TORCS-F59E0B?style=flat-square)
-
----
-
-**05 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp; [Live App ↗](https://feisty-generosity-production-388b.up.railway.app/)**
-> Real-time speech-to-text pipeline with low-latency streaming from live audio
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-10B981?style=flat-square&logo=openai&logoColor=white)
-![Audio](https://img.shields.io/badge/Audio-6366F1?style=flat-square)
 
 ---
 
