@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/><img src="https://skillicons.dev/icons?i=aws" width="50"/></p>
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **01 &nbsp; 🔍 [YcMind](https://github.com/Quttoshi/ycmind) &nbsp;·&nbsp; [Live App ↗](https://ycmind.vercel.app/)**
 > GraphRAG system over 4,000+ Y Combinator companies answers multi-hop questions about founders, batches, and sectors using a knowledge graph + vector search pipeline
@@ -26,7 +26,7 @@
 
 ---
 
-**02 &nbsp; 🎙️ [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp; [Live App ↗](https://feisty-generosity-production-388b.up.railway.app/)**
+**02 &nbsp; [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp; [Live App ↗](https://feisty-generosity-production-388b.up.railway.app/)**
 > Real-time speech-to-text pipeline with low-latency streaming from live audio
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-**03 &nbsp; 🧠 [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
+**03 &nbsp; [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
 > Production-ready Retrieval Augmented Generation system with document ingestion, semantic search, and LLM-powered responses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-**04 &nbsp; 🕵️ [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
+**04 &nbsp; [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
 > Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,7 +56,7 @@
 
 ---
 
-**05 &nbsp; 🤖 [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
+**05 &nbsp; [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
 > ML-based autonomous agent trained end-to-end in the TORCS simulator
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -65,7 +65,7 @@
 
 ---
 
-**06 &nbsp; 📊 [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)**
+**06 &nbsp; [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)**
 > Oil price prediction using ANN & LSTM, benchmarked against classical baselines
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -74,7 +74,7 @@
 
 ---
 
-**07 &nbsp; 🔐 [MedLock](https://github.com/Quttoshi/MedLock)**
+**07 &nbsp; [MedLock](https://github.com/Quttoshi/MedLock)**
 > Healthcare security solution using blockchain and AES encryption
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
@@ -86,10 +86,10 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center"><a href="https://www.linkedin.com/in/shehbaz-quttoshi-052940281"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;<a href="mailto:shehbaz.qutoshi@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a></p>
 
 ---
 
-⭐️ *"I wire up systems that think, adapt, and ship."*
+*"I wire up systems that think, adapt, and ship."*
