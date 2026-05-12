@@ -17,49 +17,49 @@
 **01 &nbsp; [YcMind](https://github.com/Quttoshi/ycmind) &nbsp;·&nbsp; [Live App ↗](https://ycmind.vercel.app/)**
 > GraphRAG system over 4,000+ Y Combinator companies answers multi-hop questions about founders, batches, and sectors using a knowledge graph + vector search pipeline
 
-`Python` `FastAPI` `Next.js` `Neo4j` `Pinecone` `OpenAI`
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,neo4j&theme=light" height="24"/>
 
 ---
 
 **02 &nbsp; [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp; [Live App ↗](https://feisty-generosity-production-388b.up.railway.app/)**
 > Real-time speech-to-text pipeline with low-latency streaming from live audio
 
-`Python` `Whisper` `Audio`
+<img src="https://skillicons.dev/icons?i=python&theme=light" height="24"/>
 
 ---
 
 **03 &nbsp; [Smart RAG](https://github.com/Quttoshi/Smart-RAG)**
 > Production-ready Retrieval Augmented Generation system with document ingestion, semantic search, and LLM-powered responses
 
-`Python` `FastAPI` `LangChain` `FAISS` `Redis`
+<img src="https://skillicons.dev/icons?i=python,fastapi,redis&theme=light" height="24"/>
 
 ---
 
 **04 &nbsp; [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
 > Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets
 
-`Python` `FastAPI` `n8n` `Docker`
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=light" height="24"/>
 
 ---
 
 **05 &nbsp; [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
 > ML-based autonomous agent trained end-to-end in the TORCS simulator
 
-`Python` `Reinforcement Learning` `TORCS`
+<img src="https://skillicons.dev/icons?i=python&theme=light" height="24"/>
 
 ---
 
 **06 &nbsp; [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)**
 > Oil price prediction using ANN & LSTM, benchmarked against classical baselines
 
-`Python` `LSTM` `Keras`
+<img src="https://skillicons.dev/icons?i=python,keras&theme=light" height="24"/>
 
 ---
 
 **07 &nbsp; [MedLock](https://github.com/Quttoshi/MedLock)**
 > Healthcare security solution using blockchain and AES encryption
 
-`FastAPI` `Supabase` `Blockchain` `AES`
+<img src="https://skillicons.dev/icons?i=fastapi,supabase&theme=light" height="24"/>
 
 ---
 
