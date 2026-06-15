@@ -37,7 +37,7 @@
 
 ---
 
-**02 &nbsp; [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp; [Live App ↗](https://feisty-generosity-production-388b.up.railway.app/)**
+**02 &nbsp; [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp;**
 > Real-time speech-to-text pipeline with low-latency streaming from live audio
 
 `Python` `Whisper` `Audio`
