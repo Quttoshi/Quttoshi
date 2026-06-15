@@ -37,7 +37,7 @@
 
 ---
 
-**02 &nbsp; [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT) &nbsp;·&nbsp;**
+**02 &nbsp; [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT)**
 > Real-time speech-to-text pipeline with low-latency streaming from live audio
 
 `Python` `Whisper` `Audio`
