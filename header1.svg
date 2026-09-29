@@ -3,25 +3,53 @@
     <style>
       @keyframes typewriter {
         0%  { clip-path: inset(0 100% 0 0); }
-        100%{ clip-path: inset(0 0%   0 0); }
-      }
-      @keyframes lineOut {
-        0%  { stroke-dashoffset: 760; }
-        100%{ stroke-dashoffset: 0;   }
-      }
-      @keyframes cursorBlink {
-        0%,49%{ opacity:1; } 50%,99%{ opacity:0; }
-      }
-      @keyframes fadeIn {
-        0%  { opacity:0; } 100%{ opacity:1; }
+        100% { clip-path: inset(0 0% 0 0); }
       }
 
-      .name-type     { clip-path:inset(0 100% 0 0); animation: typewriter 1.4s steps(13,end) 0.3s both; }
-      .role-type     { clip-path:inset(0 100% 0 0); animation: typewriter 1.2s steps(38,end) 1.9s both; }
-      .underline-path{ stroke-dasharray:760; stroke-dashoffset:760; animation: lineOut 0.5s ease 1.8s both; }
-      .cursor-name   { animation: cursorBlink 0.75s step-end 0.3s 2; opacity:0; }
-      .cursor-role   { animation: cursorBlink 0.75s step-end 1.9s infinite; opacity:0; }
-      .fade          { animation: fadeIn 0.3s ease 0.1s both; }
+      @keyframes lineOut {
+        0%  { stroke-dashoffset: 760; }
+        100% { stroke-dashoffset: 0; }
+      }
+
+      @keyframes cursorBlink {
+        0%, 49% { opacity: 1; }
+        50%, 99% { opacity: 0; }
+      }
+
+      @keyframes fadeIn {
+        0%  { opacity: 0; }
+        100% { opacity: 1; }
+      }
+
+      .name-type {
+        clip-path: inset(0 100% 0 0);
+        animation: typewriter 1.4s steps(13, end) 0.3s both;
+      }
+
+      .role-type {
+        clip-path: inset(0 100% 0 0);
+        animation: typewriter 1.2s steps(38, end) 1.9s both;
+      }
+
+      .underline-path {
+        stroke-dasharray: 760;
+        stroke-dashoffset: 760;
+        animation: lineOut 0.5s ease 1.8s both;
+      }
+
+      .cursor-name {
+        animation: cursorBlink 0.75s step-end 0.3s 2;
+        opacity: 0;
+      }
+
+      .cursor-role {
+        animation: cursorBlink 0.75s step-end 1.9s infinite;
+        opacity: 0;
+      }
+
+      .fade {
+        animation: fadeIn 0.3s ease 0.1s both;
+      }
     </style>
   </defs>
 
@@ -29,21 +57,63 @@
   <rect width="900" height="160" fill="none"/>
 
   <!-- Name typewriter -->
-  <text class="name-type" x="450" y="82" text-anchor="middle"
-        font-family="'Courier New',Courier,monospace" font-size="62" font-weight="700"
-        fill="#0e7490" letter-spacing="10">SHEHBAZ KARIM</text>
+  <text
+    class="name-type"
+    x="450"
+    y="82"
+    text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="62"
+    font-weight="700"
+    fill="#0e7490"
+    letter-spacing="10"
+  >SHEHBAZ KARIM</text>
 
   <!-- Blinking cursor after name -->
-  <rect class="cursor-name" x="792" y="30" width="5" height="56" rx="1" fill="#0e7490"/>
+  <rect
+    class="cursor-name"
+    x="792"
+    y="30"
+    width="5"
+    height="56"
+    rx="1"
+    fill="#0e7490"
+  />
 
   <!-- Underline -->
-  <line class="underline-path" x1="70" y1="96" x2="830" y2="96" stroke="#0e7490" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+  <line
+    class="underline-path"
+    x1="70"
+    y1="96"
+    x2="830"
+    y2="96"
+    stroke="#0e7490"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    opacity="0.4"
+  />
 
-  <!-- Role typewriter -->
-  <text class="role-type" x="450" y="130" text-anchor="middle"
-        font-family="'Courier New',Courier,monospace" font-size="12"
-        fill="#0e7490" letter-spacing="2.5" opacity="0.75">[ AI ENGINEER · AGENTIC AI · ML · GENAI ]</text>
+  <!-- Role / subtitle typewriter -->
+  <text
+    class="role-type"
+    x="450"
+    y="132"
+    text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="16"
+    font-weight="600"
+    fill="#0e7490"
+    letter-spacing="3"
+  >[ AI ENGINEER · AGENTIC AI · ML · GENAI ]</text>
 
   <!-- Blinking cursor after role -->
-  <rect class="cursor-role" x="702" y="118" width="6" height="13" rx="1" fill="#0e7490" opacity="0.75"/>
+  <rect
+    class="cursor-role"
+    x="755"
+    y="118"
+    width="6"
+    height="17"
+    rx="1"
+    fill="#0e7490"
+  />
 </svg>
