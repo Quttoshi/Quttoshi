@@ -4,27 +4,13 @@
 
 ---
 
-## Tech Stack
+## About Me
 
-<p align="center">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/></span>
-  <span><img src="https://skillicons.dev/icons?i=aws" width="50"/></span>
-</p>
+I'm an AI Engineer building production agentic systems and retrieval-augmented GenAI applications. My work spans multi-agent orchestration, RAG and GraphRAG pipelines, MCP tool servers, and LLM evaluation — from architecture through deployment.
 
-<p align="center">
-  <span><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28"/></span>
-  &nbsp;&nbsp;
-  <span><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28"/></span>
-</p>
+Currently building and deploying a multi-agent AI system in production, covering hybrid retrieval, evaluation harnesses (golden datasets, LLM-as-judge), and cloud deployment on AWS (EKS, Kubernetes, CI/CD).
+
+I care about shipping AI features that are reliable and low-latency, not just demos that work once.
 
 ---
 
