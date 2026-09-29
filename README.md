@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an AI Engineer building production agentic systems and retrieval-augmented GenAI applications. My work spans multi-agent orchestration, RAG and GraphRAG pipelines, MCP tool servers, and LLM evaluation — from architecture through deployment.
+I'm an AI Engineer building production agentic systems and retrieval-augmented GenAI applications. My work spans multi-agent orchestration, RAG and GraphRAG pipelines, MCP tool servers, and LLM evaluation from architecture through deployment.
 
 Currently building and deploying a multi-agent AI system in production, covering hybrid retrieval, evaluation harnesses (golden datasets, LLM-as-judge), and cloud deployment on AWS (EKS, Kubernetes, CI/CD).
 
