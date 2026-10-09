@@ -37,24 +37,10 @@ I care about shipping AI features that are reliable and low-latency, not just de
 
 ---
 
-**04 &nbsp; [Job Scraper](https://github.com/Quttoshi/Job-Scraper)**
-> Scrapes AI/ML jobs from Indeed & LinkedIn hourly, filters by location & experience, saves to Google Sheets
-
-`Python` `FastAPI` `n8n` `Docker`
-
----
-
 **05 &nbsp; [TORCS AI Racing Driver](https://github.com/Quttoshi/TORCS-AI-Racing-Driver)**
 > ML-based autonomous agent trained end-to-end in the TORCS simulator
 
 `Python` `Reinforcement Learning` `TORCS`
-
----
-
-**06 &nbsp; [Time Series Forecasting](https://github.com/Quttoshi/Time-Series-Forecasting-with-ANN-LSTM)**
-> Oil price prediction using ANN & LSTM, benchmarked against classical baselines
-
-`Python` `LSTM` `Keras`
 
 ---
 
