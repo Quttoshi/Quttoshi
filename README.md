@@ -23,7 +23,7 @@ I care about shipping AI features that are reliable and low-latency, not just de
 
 ---
 
-**02 &nbsp; [Gen AI](https://github.com/Quttoshi/moe-image-restoration)**
+**02 &nbsp; [moe-image-restoration](https://github.com/Quttoshi/moe-image-restoration)**
 > Image restoration with autoencoders, hard routing and a soft mixture of experts, plus a style-conditioned face-to-sketch GAN, served via ONNX, FastAPI and React.
 
 `Python` `PyTorch` `GAN` `ONNX` `FastAPI` `React`
