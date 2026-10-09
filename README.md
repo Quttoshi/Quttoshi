@@ -23,10 +23,10 @@ I care about shipping AI features that are reliable and low-latency, not just de
 
 ---
 
-**02 &nbsp; [LiveTranscription STT](https://github.com/Quttoshi/LiveTranscription-STT)**
-> Real-time speech-to-text pipeline with low-latency streaming from live audio
+**02 &nbsp; [Gen AI](https://github.com/Quttoshi/moe-image-restoration)**
+> Image restoration with autoencoders, hard routing and a soft mixture of experts, plus a style-conditioned face-to-sketch GAN, served via ONNX, FastAPI and React.
 
-`Python` `Whisper` `Audio`
+`Python` `PyTorch` `GAN` `ONNX` `FastAPI` `React`
 
 ---
 
